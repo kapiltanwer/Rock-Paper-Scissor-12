@@ -15,7 +15,7 @@ def game(Bhaiya,My):
         if My ==  'r':
             return True
         elif My == 's':
-            return False
+            return Fals
 
 
 BhaiyaTurn = input("Bhaiya turn: Rock(r) Seaser(s) Paper(p)")
